@@ -718,11 +718,12 @@ p {
 }
 
 .ud-hero-image {
-  max-width: 845px;
+  max-width: 190px;
   margin: auto;
   text-align: center;
   position: relative;
   z-index: 1;
+  margin-bottom: 40px;
 }
 
 .ud-hero-image img {
