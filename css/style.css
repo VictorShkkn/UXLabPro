@@ -2029,6 +2029,10 @@ a:focus-visible .ud-single-blog {
   transition: all 0.3s ease-out 0s;
 }
 
+.ud-blog-image {
+  max-width: 300px;
+}
+
 .ud-single-blog .ud-blog-date {
   display: inline-flex;
   font-size: 12px;
